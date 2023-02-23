@@ -1,0 +1,4 @@
+C:\Users\lauren.omalley\source\repos\Helloworld_LaurenOMalley\Helloworld_LaurenOMalley\obj\Debug\netcoreapp3.1\Helloworld_LaurenOMalley.csproj.AssemblyReference.cache
+C:\Users\lauren.omalley\source\repos\Helloworld_LaurenOMalley\Helloworld_LaurenOMalley\obj\Debug\netcoreapp3.1\Helloworld_LaurenOMalley.AssemblyInfoInputs.cache
+C:\Users\lauren.omalley\source\repos\Helloworld_LaurenOMalley\Helloworld_LaurenOMalley\obj\Debug\netcoreapp3.1\Helloworld_LaurenOMalley.AssemblyInfo.cs
+C:\Users\lauren.omalley\source\repos\Helloworld_LaurenOMalley\Helloworld_LaurenOMalley\obj\Debug\netcoreapp3.1\Helloworld_LaurenOMalley.csproj.CoreCompileInputs.cache
